@@ -15,11 +15,13 @@
 | [0162-find-peak-element](https://github.com/phinehasariga/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phinehasariga/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/phinehasariga/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/phinehasariga/leetcode/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/phinehasariga/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/phinehasariga/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/phinehasariga/leetcode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/phinehasariga/leetcode/tree/master/0134-gas-station) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/phinehasariga/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/phinehasariga/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
