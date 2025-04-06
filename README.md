@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/phinehasariga/leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/phinehasariga/leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -13,5 +14,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/phinehasariga/leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/phinehasariga/leetcode/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/phinehasariga/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
