@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phinehasariga/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/phinehasariga/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/phinehasariga/leetcode/tree/master/0204-count-primes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/phinehasariga/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/phinehasariga/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/phinehasariga/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phinehasariga/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/phinehasariga/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
